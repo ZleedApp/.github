@@ -5,6 +5,7 @@ A free and open-source streaming platform.
 ## Repos
 
 * [ZleedApp/Stem](https://github.com/ZleedApp/Stem) - Our react component library used in Zleed products.
+* [ZleedApp/Pot](https://github.com/ZleedApp/Pot) - Our back-end that powers the Zleed API. 
 
 ## Contributing
 
