@@ -12,4 +12,4 @@ We are currently still planning stuff out, yes even after 2 years, so contributi
 
 ## Licenses
 
-Most of our stuff is GPL-3.0 licensed, except our brand assest which are ARR.
+Most of our stuff is GPL-3.0 licensed, except our brand assets which are All Rights Reserved.
